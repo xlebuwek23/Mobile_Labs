@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Labs</string>
+    <string name="_9">Работа 9</string>
+    <string name="_10">Работа 10</string>
+    <string name="_11">Работа 11</string>
+    <string name="_12">Работа 12</string>
+    <string name="_13">Работа 13</string>
+    <string name="_14">Работа 14</string>
+    <string name="_15">Работа 15</string>
+    <string name="_Notif">Кнопка для отправки уведомления</string>
+    <string name="_work10_1">Окно 1</string>
+    <string name="_Work_10_2">Окно 2</string>
+    <string name="Work_10_3">Окно 3</string>
+    <string name="Work_10_1">Окно 1</string>
+    <string name="_Work_10_1">Окно 2</string>
+    <string name="Flashlight">Включить фонарик</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="БД">Загрузить БД</string>
+    <string name="connection_status_image">Статус подключения\n</string>
+    <string name="Connection">Проверить подключение</string>
+</resources>
